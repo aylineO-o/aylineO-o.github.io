@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <title>DEFEND DACA!</title>
+    <meta charset="utf-8" />
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	  <!-- link the webpage's stylesheet -->
+	  <link rel="stylesheet" href="/style.css" />
+
+	  <!-- link the webpage's JavaScript file -->
+	  <script src="/script.js" defer></script>
+
+  </head>
+  
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="action.html">Take Action!</a>
+        </li>
+      </ul>
+    </nav>
+
+    <header id="background">
+      <h1 id=homeTitle>
+        DEFEND DACA!
+      </h1>
+      <img id=homePic src="assets/DACA.jpg" alt="image taken at a protest showing multiple people holding posters one reading defend daca defend dreamers and another saying no human being is illegal">
+    </header>
+
+    <main>
+      <h2 class=home1>What Happened Recently</h2>
+      <p>
+        On Friday, July 16, U.S. District Judge Andew Hanen from Texas ruled that the DACA program was unlawful and ordered the immigration agency to block approval of first-time applicants; preventing an estimated 3.6 eligible people from receiving legal protection. Hanen along with 8 other states claim that former President Barack Obama didn't have the authority to enact such a policy. Recipients already protected by DACA won't be affected by the order and can still submit applications to renew their permits, but the estimated 3.6 million eligble applicants have to continue to live in uncertainty until the courts come to a decision. The Biden adminstration pledged to appeal this ruling and the case could make its way up to the Supreme Court to determine the immigration program's legality. However, whether the Supreme Court will rule in the people's favor and save DACA is unclear. 
+      </p>
+      
+      <div class="flexContainer">
+        <div class="column">
+        <img class=homepics src="assets/daca2.jfif" alt="An image of 2 people wearing orange shirts and face masks standing outside a court holding a sign reading immigrants are #hereToStay">
+        </div>
+        <div class="column">
+        <img class=homepics src="assets/daca4.jpg" alt="An image of someone's hand holding a poster that reads 'dreamers not criminals #daca'">
+        </div>
+        <div class="column">
+        <img class=homepics src="assets/daca5.jpeg" alt="An image of a group of students protesting and holding posters supporting DACA, one reading 'let us be part of the american dream'">
+        </div>
+      </div>
+
+      <h3 id=home2>Dreamers will continue to live in fear and their legality will continue to be questioned in the courts unless Congress finally acts and creates a pathway to citizenship.<h3>
+
+      <h2 class=home1>What is DACA?</h2>
+      <p> DACA, or Deferred Action for Childhood Arrivals, gives temporary protection from deportation and permission to work legally to an estimated 650,000 people who were brought to the United States as children. Recipients, otherwise known as Dreamers, must then apply for renewal every two years. To be eligible for DACA, you must have come to the US before your 16th birthday and have lived here since June 15, 2007; you must also be attending school, or a highschool graduate and not been convicted of certain crimes. The program was started by the Obama adminstration in 2012 and former President Donald Trump tried to get rid of the program in 2017 but was blocked by the Supreme Court last year since they had no "reasoned explanation for [their] action." </p>
+
+      <iframe id=vid width="560" height="315" src="https://www.youtube.com/embed/R2iwHmOdzVU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <p id=homeP>Dreamers have made grand contributions to the U.S. economy, communities, and schools as well as serving in our armed forces and working at the frontlines during the peak of the covid pandemic. Most people were brought to the U.S. at a very young age thus the only home they've truly know is the States, not the country they were born in. The inhumanity of preventing hundreds of thousands of people from becoming full members of our society must come to a stop. Congress must take action and provide a permanent solution by granting a path to citizenship for all Dreamers. </p>
+
+    </main>
+
+  </body>
+</html>
